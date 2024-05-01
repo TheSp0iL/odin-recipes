@@ -13,3 +13,8 @@ h2 {
     font-family: 'Times New Roman', Times, serif;
     color: rgb(110,0,29);
 }
+
+li {
+    margin: 1px;
+    padding: 1px;
+}
